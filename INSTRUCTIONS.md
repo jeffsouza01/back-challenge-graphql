@@ -10,7 +10,10 @@
 
 ### :bookmark_tabs: Setup Instructions
 
-Run the commands below:
+- Set your user data and DB information to connect with DataBase on ormconfig.json
+
+
+- Run the commands below:
 
 ```bash
 # To Install all dependencies
